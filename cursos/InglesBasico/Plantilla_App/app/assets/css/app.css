@@ -2410,7 +2410,7 @@ button.disabled, button:disabled { opacity: 0.5; cursor: not-allowed; }
 
 .btn-success.disabled:hover, .btn-success.disabled:focus { background-color: #daa520; border-color: #daa520; }
 
-.btn-info { background-color: #0f9aee; border-color: #0f9aee; color: #ffffff; }
+.btn-info { background-color: #daa520; border-color: #0f9aee; color: #ffffff; }
 
 .btn-info:hover, .btn-info:focus { color: #ffffff; background-color: #25a4f1; border-color: #25a4f1; }
 

@@ -3259,7 +3259,7 @@ a.card:hover, a.card:focus { -webkit-box-shadow: 0 7px 15px rgba(0, 0, 0, 0.075)
 
 .accordion .panel-title > a:hover, .accordion .panel-title > a:focus { text-decoration: none; }
 
-.progress { height: 4px; background-color: #eaeef3; border-radius: 4px; margin-bottom: 10px; }
+.progress { height: 4px; background-color: #daa520; border-radius: 4px; margin-bottom: 10px; }
 
 .progress.progress-sm { height: 8px; }
 
